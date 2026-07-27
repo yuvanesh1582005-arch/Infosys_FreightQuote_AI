@@ -292,37 +292,37 @@ Future enhancements planned for this project include:
 
 The **Intelligent Freight Quote Generation Using AI** project demonstrates how Artificial Intelligence can modernize logistics operations by automating freight quotation generation. By combining Machine Learning, secure authentication, interactive dashboards, and a responsive web interface, the application delivers faster, more accurate, and secure freight cost estimation. This project strengthened my practical knowledge of AI, Machine Learning, web development, cybersecurity, database management, and software deployment while solving a real-world logistics problem.
 
-🔐 Login Page
+🔐 1. Login Page
 
 Description:
 Secure authentication page where registered users can log in using their email and password. The system validates credentials using JWT authentication and bcrypt password hashing to ensure secure access to the application.
 <img width="1915" height="907" alt="Screenshot 2026-07-16 193004" src="https://github.com/user-attachments/assets/eded30ab-2e4f-423a-8adc-656d895530ff" />
 
-📝 Create Account
+📝 2. Create Account
 
 Description:
 User registration page that allows new users to create an account by providing their personal details, email, password, and security question. Passwords are securely encrypted before being stored in the database.
 <img width="1911" height="907" alt="Screenshot 2026-07-16 193019" src="https://github.com/user-attachments/assets/91c74e4d-459a-485b-bbd3-85f444b38cff" />
 
-🔑 Forgot Password
+🔑 3. Forgot Password
 
 Description:
 Password recovery page that provides two secure recovery options: resetting the password using a registered security question or receiving a One-Time Password (OTP) via email.
 <img width="1916" height="910" alt="Screenshot 2026-07-16 192941" src="https://github.com/user-attachments/assets/57986345-1661-4409-89a9-b2d612f4273a" />
 
-📧 OTP Verification
+📧 4. OTP Verification
 
 Description:
 Verification page where users enter the OTP received through email. The OTP is securely validated and expires after a limited time to prevent unauthorized access.
 <img width="1916" height="906" alt="Screenshot 2026-07-16 193125" src="https://github.com/user-attachments/assets/4c8086ed-6a7c-4f02-8607-6da57b365273" />
 
-🔒 Reset Password
+🔒 5. Reset Password
 
 Description:
 Allows users to create a new password after successful verification. The application enforces password strength requirements and securely updates the encrypted password in the database.
 <img width="1917" height="902" alt="Screenshot 2026-07-16 193837" src="https://github.com/user-attachments/assets/16232052-ff49-4d20-a3bc-d16d0d2c20a0" />
 
-📊 Analytics Dashboard
+📊 6. Analytics Dashboard
 
 Description:
 Interactive dashboard built with Plotly to visualize shipment data, business insights, and system performance through dynamic charts and graphs, helping users make informed decisions.
