@@ -1,4 +1,4 @@
-🚢 FreightQuote AI Platform – Milestone 2
+# 🚢 FreightQuote AI Platform – Milestone 2
 
  📌 Project Overview
 
