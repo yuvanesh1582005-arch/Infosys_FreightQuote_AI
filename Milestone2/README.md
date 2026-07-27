@@ -381,7 +381,7 @@ Description
 The Login Page acts as the secure entry point to the FreightQuote AI Platform. Users authenticate using their registered email and password, which are securely stored using bcrypt hashing. After successful authentication, a JWT session token is generated to maintain a secure user session. This module also provides access to user registration and password recovery through OTP verification, ensuring that only authorized users can access the platform.
 <img width="1915" height="907" alt="Screenshot 2026-07-16 193004" src="https://github.com/user-attachments/assets/abb380f1-6094-403e-aa7e-197cf38d9750" />
 
-👤 User Dashboard
+👤 2. User Dashboard
 
 Description
 
@@ -444,14 +444,14 @@ Description
 The Security Features module demonstrates the advanced protection mechanisms implemented in the platform. It includes progressive account lockout after repeated failed login attempts, OTP resend rate limiting to prevent abuse, and a real-time password strength checker that enforces strong password policies. These features significantly enhance the security and reliability of the authentication system.
 <img width="1915" height="892" alt="Screenshot 2026-07-27 185730" src="https://github.com/user-attachments/assets/d69c7f98-5228-4a28-a6a1-b89610a1130d" />
 
-🔐 Secure Login & Progressive Account Lockout
+🔐 11. Secure Login & Progressive Account Lockout
 
 Description:
 
 The platform provides secure user authentication using JWT-based login, encrypted password verification, user registration, and OTP-based password recovery. To protect against brute-force attacks, it implements a Progressive Account Lockout mechanism, where the account is temporarily locked for 5 minutes after 3 consecutive failed login attempts, 15 minutes after 4 failed attempts, and permanently locked after 5 failed attempts until unlocked by an administrator.
 <img width="1907" height="888" alt="Screenshot 2026-07-27 185340" src="https://github.com/user-attachments/assets/f91198d7-7369-4c12-9934-4db5436617d9" />
 
-🔑 Password Strength Checker
+🔑 12. Password Strength Checker
 
 Description:
 
