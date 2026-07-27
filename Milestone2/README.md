@@ -1,5 +1,3 @@
-Based on your **Milestone 2 instructions**, here's a professional **GitHub README** that explains the project, its workflow, technologies, features, and architecture. It is based on the uploaded Milestone 2 document. 
-
 🚢 FreightQuote AI Platform – Milestone 2
 
  📌 Project Overview
