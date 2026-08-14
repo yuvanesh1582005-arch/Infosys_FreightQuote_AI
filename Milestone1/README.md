@@ -1,8 +1,8 @@
-# 🚀 Intelligent Freight Quote Generation Using AI
+# 🚀 Agentic AI for Maritime Freight Pricing and Route Optimization Using AI
 
 ## 📌 Project Overview
 
-**Intelligent Freight Quote Generation Using AI** is a secure web application developed during my **Infosys Internship** to automate the freight quotation process using Artificial Intelligence. The application predicts freight costs based on shipment details and provides a secure platform for users to generate quotations, manage accounts, and visualize business insights.
+**Agentic AI for Maritime Freight Pricing and Route Optimization Using AI** is a secure web application developed during my **Infosys Internship** to automate the freight quotation process using Artificial Intelligence. The application predicts freight costs based on shipment details and provides a secure platform for users to generate quotations, manage accounts, and visualize business insights.
 
 Instead of manually calculating transportation costs, the system uses a Machine Learning model to estimate freight charges quickly and accurately, reducing human effort and improving operational efficiency.
 
