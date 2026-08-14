@@ -1,8 +1,8 @@
-# 🚢 FreightQuote AI Platform – Milestone 2
+# 🚢Agentic AI for Maritime Freight Pricing and Route Optimization – Milestone 2
 
  📌 Project Overview
 
-**FreightQuote AI Platform – Milestone 2** is an AI-powered intelligent freight management system that extends the authentication module developed in Milestone 1 into a complete logistics decision-support platform.
+**Agentic AI for Maritime Freight Pricing and Route Optimization – Milestone 2** is an AI-powered intelligent freight management system that extends the authentication module developed in Milestone 1 into a complete logistics decision-support platform.
 
 This milestone integrates **Machine Learning**, **Large Language Models (LLMs)**, and **enterprise-grade security** to create a secure freight quotation system capable of predicting freight costs, identifying shipment risks, auditing carrier compliance, and generating AI-powered logistics recommendations.
 
