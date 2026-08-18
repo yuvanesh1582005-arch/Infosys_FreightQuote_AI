@@ -175,7 +175,8 @@ The following screenshots demonstrate the main stages of the **Milestone 3 RAG p
 
 ## 🌐 1. Document Scraping
 
-![Document Scraping](screenshots/scraping.jpeg)
+<img width="1268" height="512" alt="Screenshot 2026-08-18 212606" src="https://github.com/user-attachments/assets/268a1b91-ba83-47ba-b63f-82daf094af9f" />
+
 
 *Shows the document scraping stage used to collect relevant maritime and logistics reference documents for the RAG knowledge base.*
 
@@ -183,7 +184,8 @@ The following screenshots demonstrate the main stages of the **Milestone 3 RAG p
 
 ## 📄 2. PDF Extraction
 
-![PDF Extraction](screenshots/extract_pdf.jpeg)
+<img width="1251" height="360" alt="Screenshot 2026-08-18 212617" src="https://github.com/user-attachments/assets/7d003223-cfd9-4a61-aaef-6b7738e51548" />
+
 
 *Shows the extraction of text and relevant content from the collected PDF documents before further processing.*
 
@@ -191,7 +193,8 @@ The following screenshots demonstrate the main stages of the **Milestone 3 RAG p
 
 ## ✂️ 3. Document Chunking
 
-![Document Chunks](screenshots/chunks.jpeg)
+<img width="1261" height="458" alt="Screenshot 2026-08-18 212629" src="https://github.com/user-attachments/assets/ffe6e2e6-f166-4afa-873b-22af5702f97f" />
+
 
 *Shows the extracted document content being divided into smaller chunks for embedding and semantic retrieval.*
 
@@ -199,7 +202,8 @@ The following screenshots demonstrate the main stages of the **Milestone 3 RAG p
 
 ## 🧪 4. RAG Testing
 
-![RAG Testing](screenshots/test.jpeg)
+<img width="1267" height="526" alt="Screenshot 2026-08-18 212638" src="https://github.com/user-attachments/assets/bc1f488e-4846-4935-a821-2e6315dfc969" />
+
 
 *Shows the testing stage of the RAG pipeline, where user queries are evaluated against the prepared knowledge base and relevant information is retrieved for generating responses.*
 
