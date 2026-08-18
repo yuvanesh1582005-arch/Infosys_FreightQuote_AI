@@ -1,4 +1,6 @@
-# 🚀 Agentic AI for Maritime Freight Pricing and Route Optimization Using AI
+#  Infosys Springboard Internship 7.0  
+## Agentic AI for Maritime Freight Pricing and Route Optimization  
+### Milestone 1 — Secure User Authentication Module
 
 ## 📌 Project Overview
 
