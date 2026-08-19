@@ -1,5 +1,4 @@
-# Infosys_FreightQuote_AI
-Infosys Springboard 7.0
+# Infosys Springboard 7.0
 
 # Agentic AI for Maritime Freight Pricing & Route Optimization
 
