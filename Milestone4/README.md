@@ -458,67 +458,83 @@ freight_app/
 ## 📸 Application Screenshots
 
 ### Login & Access
-![Login Screen](./screenshots/login.jpeg)
+<img width="1262" height="698" alt="Screenshot 2026-08-19 130930" src="https://github.com/user-attachments/assets/0917462a-8c23-47b7-b711-86fbcc5adde4" />
+
 *Secure sign-in screen with role-based demo credentials.*
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin_dashboard.jpeg)
+<img width="1258" height="585" alt="Screenshot 2026-08-19 130953" src="https://github.com/user-attachments/assets/7f24c56a-de90-448c-9d11-b489c348e787" />
+
 *Command-center overview of shipments, quotes, and platform-wide KPIs.*
 
 ### AI Copilot
-![AI Copilot](./screenshots/ai_copilot.jpeg)
+<img width="1262" height="594" alt="Screenshot 2026-08-19 131010" src="https://github.com/user-attachments/assets/5f73b908-397d-425f-a45f-7f8b8962271a" />
+
 *Grounded chat assistant answering questions using live freight data.*
 
 ### Route Optimization (Agent 1)
-![Route Optimization](./screenshots/agent1_route.jpeg)
+<img width="1263" height="590" alt="Screenshot 2026-08-19 131023" src="https://github.com/user-attachments/assets/51380aa1-8f99-4cf8-975e-f8720bc27264" />
+
 *Interactive port-to-port route mapping and optimization analysis.*
 
 ### Dynamic Freight Pricing (Agent 2)
-![Freight Pricing](./screenshots/agent2_pricing.jpeg)
+<img width="1262" height="579" alt="Screenshot 2026-08-19 131038" src="https://github.com/user-attachments/assets/e7d1ba44-d9d0-48da-880c-5cae97bcdbcc" />
+
 *Real-time dynamic pricing engine for freight quotes.*
 
 ### Carrier Performance (Agent 3)
-![Carrier Performance](./screenshots/agent3_carrier.jpeg)
+<img width="1264" height="584" alt="Screenshot 2026-08-19 131052" src="https://github.com/user-attachments/assets/c7269898-d765-47a5-96f8-d810622d7486" />
+
 *Carrier capacity, reliability, and performance analytics.*
 
 ### Weather & Freight Risk (Agent 4)
-![Weather Risk](./screenshots/agent4_weather.jpeg)
+<img width="1262" height="585" alt="Screenshot 2026-08-19 131106" src="https://github.com/user-attachments/assets/90cfdbab-27f3-4bb2-af4d-632fe98b3b3b" />
+
 *Live port weather overlays and shipment risk scoring.*
 
 ### Margin Predictor (Agent 5)
-![Margin Predictor](./screenshots/agent5_margin.jpeg)
+<img width="1259" height="585" alt="Screenshot 2026-08-19 131121" src="https://github.com/user-attachments/assets/6d0a97b1-65b2-4074-a50f-bc767077ba8a" />
+
 *Predicted yield and margin outlook across active shipments.*
 
 ### Customs & Tariffs (Agent 6)
-![Customs Tariffs](./screenshots/agent6_customs.jpeg)
+<img width="1263" height="587" alt="Screenshot 2026-08-19 131134" src="https://github.com/user-attachments/assets/58a2df26-f861-4ee4-99a4-07a9f08640f3" />
+
 *Customs, tax, and compliance guidance for cross-border shipments.*
 
 ### Digital Bill of Lading (Agent 7)
-![Bill of Lading](./screenshots/agent7_docs.jpeg)
+<img width="1260" height="581" alt="Screenshot 2026-08-19 131147" src="https://github.com/user-attachments/assets/8900fb18-f54a-46e6-9088-fc98dcde70a8" />
+
 *Automated generation and management of shipping documents.*
 
 ### Alerts & Translation (Agent 8)
-![Alerts and Translation](./screenshots/agent8_alerts.jpeg)
+<img width="1263" height="588" alt="Screenshot 2026-08-19 131201" src="https://github.com/user-attachments/assets/3d6c519f-bda3-4404-b964-008038b59113" />
+
 *Real-time incident alerts alongside 20+ language translation support.*
 
 ### PDF SOP / RAG Studio (Agent 9)
-![PDF RAG Studio](./screenshots/agent9_pdf_rag.jpeg)
+<img width="1260" height="587" alt="Screenshot 2026-08-19 131213" src="https://github.com/user-attachments/assets/d5a4eaea-7db2-4df9-8c16-b4026508be9e" />
+
 *Upload and query customs/SOP PDFs using retrieval-augmented search.*
 
 ### Anomaly Scanner
-![Anomaly Scanner](./screenshots/anomaly_scanner.jpeg)
+<img width="1259" height="588" alt="Screenshot 2026-08-19 131233" src="https://github.com/user-attachments/assets/db8666ae-93d3-4df1-b8e9-fd62a33e2823" />
+
 *Isolation Forest–based detection of anomalies across shipments and ports.*
 
 ### Digital Twin Simulation
-![Digital Twin](./screenshots/digital_twin.jpeg)
+<img width="1259" height="588" alt="Screenshot 2026-08-19 131250" src="https://github.com/user-attachments/assets/cd4bd8b6-1244-40ca-9e4a-5619f05a4cf5" />
+
 *Monte Carlo trade-stress simulation of the global freight network.*
 
 ### Knowledge Graph
-![Knowledge Graph](./screenshots/knowledge_graph.jpeg)
+<img width="1264" height="584" alt="Screenshot 2026-08-19 131306" src="https://github.com/user-attachments/assets/ea4ff774-e2b3-4c10-93d1-5079fc43b5a4" />
+
 *Interactive graph linking ports, carriers, shipments, and documents.*
 
 ### Data Feed Center
-![Data Feed Center](./screenshots/data_feed_center.jpeg)
+<img width="1264" height="585" alt="Screenshot 2026-08-19 131320" src="https://github.com/user-attachments/assets/f60fb7fe-1706-450a-9774-876ccb993f43" />
+
 *Manual and bulk CSV data ingestion into the live database.*
 
 ---
