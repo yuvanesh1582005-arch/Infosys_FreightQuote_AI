@@ -194,7 +194,8 @@ Grounded Final Response
 
 ### Architecture Diagram
 
-![FreightQuote AI System Architecture](docs/architecture-diagram.png)
+<img width="2533" height="3205" alt="architecture-diagram" src="https://github.com/user-attachments/assets/3beaecac-2079-43ef-ab0b-46909b7f1572" />
+
 
 The architecture separates the user-facing application from the specialised agents, data sources, retrieval components and AI generation layer.
 
@@ -489,35 +490,86 @@ For example, a team could examine how changes in routes, pricing or network cond
 
 The repository includes selected screenshots demonstrating the platform.
 
-## 🔐 Login
+### Login & Access
+<img width="1262" height="698" alt="Screenshot 2026-08-19 130930" src="https://github.com/user-attachments/assets/0917462a-8c23-47b7-b711-86fbcc5adde4" />
 
-![FreightQuote AI Login](docs/screenshots/login.jpeg)
+*Secure sign-in screen with role-based demo credentials.*
 
-## 🤖 Agent Interface
+### Admin Dashboard
+<img width="1258" height="585" alt="Screenshot 2026-08-19 130953" src="https://github.com/user-attachments/assets/7f24c56a-de90-448c-9d11-b489c348e787" />
 
-![Agent Example](docs/screenshots/agent-example.jpeg)
+*Command-center overview of shipments, quotes, and platform-wide KPIs.*
 
-## 🧠 AI Copilot
+### AI Copilot
+<img width="1262" height="594" alt="Screenshot 2026-08-19 131010" src="https://github.com/user-attachments/assets/5f73b908-397d-425f-a45f-7f8b8962271a" />
 
-![AI Copilot](docs/screenshots/copilot-chat.jpeg)
+*Grounded chat assistant answering questions using live freight data.*
 
-## 👨‍💼 Admin Dashboard
+### Route Optimization (Agent 1)
+<img width="1263" height="590" alt="Screenshot 2026-08-19 131023" src="https://github.com/user-attachments/assets/51380aa1-8f99-4cf8-975e-f8720bc27264" />
 
-![Admin Dashboard](docs/screenshots/admin_dashboard.jpeg)
+*Interactive port-to-port route mapping and optimization analysis.*
 
-## 🏗️ Architecture
+### Dynamic Freight Pricing (Agent 2)
+<img width="1262" height="579" alt="Screenshot 2026-08-19 131038" src="https://github.com/user-attachments/assets/e7d1ba44-d9d0-48da-880c-5cae97bcdbcc" />
 
-![Architecture Diagram](docs/architecture-diagram.png)
+*Real-time dynamic pricing engine for freight quotes.*
 
----
+### Carrier Performance (Agent 3)
+<img width="1264" height="584" alt="Screenshot 2026-08-19 131052" src="https://github.com/user-attachments/assets/c7269898-d765-47a5-96f8-d810622d7486" />
 
-# 🎥 Demo
+*Carrier capacity, reliability, and performance analytics.*
 
-A recorded demonstration is included in the repository:
+### Weather & Freight Risk (Agent 4)
+<img width="1262" height="585" alt="Screenshot 2026-08-19 131106" src="https://github.com/user-attachments/assets/90cfdbab-27f3-4bb2-af4d-632fe98b3b3b" />
 
-[`docs/demo.mp4`](docs/demo.mp4)
+*Live port weather overlays and shipment risk scoring.*
 
-The demo covers the integrated FreightQuote AI platform and its major workflows.
+### Margin Predictor (Agent 5)
+<img width="1259" height="585" alt="Screenshot 2026-08-19 131121" src="https://github.com/user-attachments/assets/6d0a97b1-65b2-4074-a50f-bc767077ba8a" />
+
+*Predicted yield and margin outlook across active shipments.*
+
+### Customs & Tariffs (Agent 6)
+<img width="1263" height="587" alt="Screenshot 2026-08-19 131134" src="https://github.com/user-attachments/assets/58a2df26-f861-4ee4-99a4-07a9f08640f3" />
+
+*Customs, tax, and compliance guidance for cross-border shipments.*
+
+### Digital Bill of Lading (Agent 7)
+<img width="1260" height="581" alt="Screenshot 2026-08-19 131147" src="https://github.com/user-attachments/assets/8900fb18-f54a-46e6-9088-fc98dcde70a8" />
+
+*Automated generation and management of shipping documents.*
+
+### Alerts & Translation (Agent 8)
+<img width="1263" height="588" alt="Screenshot 2026-08-19 131201" src="https://github.com/user-attachments/assets/3d6c519f-bda3-4404-b964-008038b59113" />
+
+*Real-time incident alerts alongside 20+ language translation support.*
+
+### PDF SOP / RAG Studio (Agent 9)
+<img width="1260" height="587" alt="Screenshot 2026-08-19 131213" src="https://github.com/user-attachments/assets/d5a4eaea-7db2-4df9-8c16-b4026508be9e" />
+
+*Upload and query customs/SOP PDFs using retrieval-augmented search.*
+
+### Anomaly Scanner
+<img width="1259" height="588" alt="Screenshot 2026-08-19 131233" src="https://github.com/user-attachments/assets/db8666ae-93d3-4df1-b8e9-fd62a33e2823" />
+
+*Isolation Forest–based detection of anomalies across shipments and ports.*
+
+### Digital Twin Simulation
+<img width="1259" height="588" alt="Screenshot 2026-08-19 131250" src="https://github.com/user-attachments/assets/cd4bd8b6-1244-40ca-9e4a-5619f05a4cf5" />
+
+*Monte Carlo trade-stress simulation of the global freight network.*
+
+### Knowledge Graph
+<img width="1264" height="584" alt="Screenshot 2026-08-19 131306" src="https://github.com/user-attachments/assets/ea4ff774-e2b3-4c10-93d1-5079fc43b5a4" />
+
+*Interactive graph linking ports, carriers, shipments, and documents.*
+
+### Data Feed Center
+<img width="1264" height="585" alt="Screenshot 2026-08-19 131320" src="https://github.com/user-attachments/assets/f60fb7fe-1706-450a-9774-876ccb993f43" />
+
+*Manual and bulk CSV data ingestion into the live database.*
+
 
 ---
 
@@ -799,272 +851,7 @@ for the guidance, feedback, technical direction and continuous support throughou
 **Project:** FreightQuote AI  
 **Domain:** Agentic AI for Maritime Freight  
 **Focus:** Freight Pricing · Route Optimization · Risk Intelligence · Documentation · RAG · AI Copilot
-## 📸 Screenshots
-
-The repository includes selected screenshots demonstrating the platform.
-
-### Login & Access
-<img width="1262" height="698" alt="Screenshot 2026-08-19 130930" src="https://github.com/user-attachments/assets/0917462a-8c23-47b7-b711-86fbcc5adde4" />
-
-*Secure sign-in screen with role-based demo credentials.*
-
-### Admin Dashboard
-<img width="1258" height="585" alt="Screenshot 2026-08-19 130953" src="https://github.com/user-attachments/assets/7f24c56a-de90-448c-9d11-b489c348e787" />
-
-*Command-center overview of shipments, quotes, and platform-wide KPIs.*
-
-### AI Copilot
-<img width="1262" height="594" alt="Screenshot 2026-08-19 131010" src="https://github.com/user-attachments/assets/5f73b908-397d-425f-a45f-7f8b8962271a" />
-
-*Grounded chat assistant answering questions using live freight data.*
-
-### Route Optimization (Agent 1)
-<img width="1263" height="590" alt="Screenshot 2026-08-19 131023" src="https://github.com/user-attachments/assets/51380aa1-8f99-4cf8-975e-f8720bc27264" />
-
-*Interactive port-to-port route mapping and optimization analysis.*
-
-### Dynamic Freight Pricing (Agent 2)
-<img width="1262" height="579" alt="Screenshot 2026-08-19 131038" src="https://github.com/user-attachments/assets/e7d1ba44-d9d0-48da-880c-5cae97bcdbcc" />
-
-*Real-time dynamic pricing engine for freight quotes.*
-
-### Carrier Performance (Agent 3)
-<img width="1264" height="584" alt="Screenshot 2026-08-19 131052" src="https://github.com/user-attachments/assets/c7269898-d765-47a5-96f8-d810622d7486" />
-
-*Carrier capacity, reliability, and performance analytics.*
-
-### Weather & Freight Risk (Agent 4)
-<img width="1262" height="585" alt="Screenshot 2026-08-19 131106" src="https://github.com/user-attachments/assets/90cfdbab-27f3-4bb2-af4d-632fe98b3b3b" />
-
-*Live port weather overlays and shipment risk scoring.*
-
-### Margin Predictor (Agent 5)
-<img width="1259" height="585" alt="Screenshot 2026-08-19 131121" src="https://github.com/user-attachments/assets/6d0a97b1-65b2-4074-a50f-bc767077ba8a" />
-
-*Predicted yield and margin outlook across active shipments.*
-
-### Customs & Tariffs (Agent 6)
-<img width="1263" height="587" alt="Screenshot 2026-08-19 131134" src="https://github.com/user-attachments/assets/58a2df26-f861-4ee4-99a4-07a9f08640f3" />
-
-*Customs, tax, and compliance guidance for cross-border shipments.*
-
-### Digital Bill of Lading (Agent 7)
-<img width="1260" height="581" alt="Screenshot 2026-08-19 131147" src="https://github.com/user-attachments/assets/8900fb18-f54a-46e6-9088-fc98dcde70a8" />
-
-*Automated generation and management of shipping documents.*
-
-### Alerts & Translation (Agent 8)
-<img width="1263" height="588" alt="Screenshot 2026-08-19 131201" src="https://github.com/user-attachments/assets/3d6c519f-bda3-4404-b964-008038b59113" />
-
-*Real-time incident alerts alongside 20+ language translation support.*
-
-### PDF SOP / RAG Studio (Agent 9)
-<img width="1260" height="587" alt="Screenshot 2026-08-19 131213" src="https://github.com/user-attachments/assets/d5a4eaea-7db2-4df9-8c16-b4026508be9e" />
-
-*Upload and query customs/SOP PDFs using retrieval-augmented search.*
-
-### Anomaly Scanner
-<img width="1259" height="588" alt="Screenshot 2026-08-19 131233" src="https://github.com/user-attachments/assets/db8666ae-93d3-4df1-b8e9-fd62a33e2823" />
-
-*Isolation Forest–based detection of anomalies across shipments and ports.*
-
-### Digital Twin Simulation
-<img width="1259" height="588" alt="Screenshot 2026-08-19 131250" src="https://github.com/user-attachments/assets/cd4bd8b6-1244-40ca-9e4a-5619f05a4cf5" />
-
-*Monte Carlo trade-stress simulation of the global freight network.*
-
-### Knowledge Graph
-<img width="1264" height="584" alt="Screenshot 2026-08-19 131306" src="https://github.com/user-attachments/assets/ea4ff774-e2b3-4c10-93d1-5079fc43b5a4" />
-
-*Interactive graph linking ports, carriers, shipments, and documents.*
-
-### Data Feed Center
-<img width="1264" height="585" alt="Screenshot 2026-08-19 131320" src="https://github.com/user-attachments/assets/f60fb7fe-1706-450a-9774-876ccb993f43" />
-
-*Manual and bulk CSV data ingestion into the live database.*
-
----
-
-📁 Project Structure
-text
-FreightQuote-AI/
-│
-├── app.py
-├── auth.py
-├── db.py
-├── admin_dash.py
-├── train_ml.py
-├── llm_engine.py
-├── config.py
-├── notifications.py
-├── ui_theme.py
-├── ui_enhancements.py
-├── weather_context.py
-├── seed_data.py
-├── agent2_freight.py
-├── agent3_freight.py
-│
-├── requirements.txt
-├── Dockerfile
-├── docker-compose.yml
-├── .env.example
-├── .gitignore
-├── LICENSE
-├── README.md
-│
-├── docs/
-│   ├── architecture-diagram.png
-│   ├── demo.mp4
-│   │
-│   └── screenshots/
-│       ├── login.jpeg
-│       ├── agent-example.jpeg
-│       ├── copilot-chat.jpeg
-│       └── admin_dashboard.jpeg
-│
-├── Milestone4/
-└── Milestone_3/
-
-Additional agent/model files may be present depending on the final integrated repository version.
-
-🚀 Installation & Run
-1. Clone the Repository
-bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd FreightQuote-AI
-2. Create a Virtual Environment
-Windows
-bash
-python -m venv venv
-venv\Scripts\activate
-Linux / macOS
-bash
-python3 -m venv venv
-source venv/bin/activate
-3. Install Dependencies
-bash
-pip install -r requirements.txt
-4. Configure Environment Variables
-
-Create a .env file based on .env.example.
-
-bash
-cp .env.example .env
-
-On Windows, create the .env file manually if required.
-
-5. Run the Application
-bash
-streamlit run app.py
-
-The application will provide a local Streamlit URL in the terminal.
-
-🔑 Environment Variables
-
-The project uses environment variables for credentials and configuration.
-
-Typical configuration includes:
-
-env
-HF_TOKEN=
-KAGGLE_USERNAME=
-KAGGLE_KEY=
-JWT_SECRET_KEY=
-NGROK_AUTHTOKEN=
-
-ADMIN_EMAIL_ID=
-ADMIN_PASSWORD=
-
-EMAIL_ID=
-EMAIL_PASSWORD=
-⚠️ Security
-
-Never commit real credentials, API keys, passwords, OTPs or tokens to GitHub.
-
-Use .env.example only for variable names/placeholders.
-
-The .gitignore file should exclude sensitive environment files such as:
-
-text
-.env
-🧪 Testing & Validation
-
-The integrated platform was checked across the major functional areas.
-
-Validation Areas
-Login and authentication
-Role-based access
-Agent navigation
-Agent execution
-Pricing calculations
-Route intelligence
-Carrier analysis
-Weather information
-Margin analysis
-Customs functionality
-Document processing
-Translation
-PDF/RAG retrieval
-AI Copilot responses
-Admin Dashboard
-Database operations
-UI navigation
-Error handling
-Agent Validation
-
-Each specialised agent should be checked for:
-
-Correct page loading.
-Correct input handling.
-Successful execution.
-Expected output.
-Model/database/API availability.
-Error handling.
-Integration with the overall platform.
-📈 Results & Impact
-
-The project presentation highlights the intended operational impact of the integrated platform:
-
-Impact Area	Reported Project Impact
-⚡ Faster Information Retrieval	70%
-📄 Reduction in Manual Documentation Effort	65%
-🤖 Automation of Routine Freight Analysis	80%
-
-These improvements are associated with combining AI-powered retrieval, OCR, semantic search, document processing and specialised freight agents into a single workflow.
-
-Overall Benefits
-
-Higher Efficiency · Lower Costs · Better Visibility
-
-🧩 Challenges & Learnings
-
-During development and integration, several practical challenges required attention.
-
-1. Keeping AI Responses Grounded
-
-The Copilot needed to avoid producing unsupported numbers or information.
-
-The solution was to prioritise retrieved SQL results, computed outputs and RAG evidence and make the response generation layer aware of missing evidence.
-
-2. Live Weather API Reliability
-
-Real-time weather APIs can occasionally experience timeouts or rate limitations.
-
-The system therefore needs graceful handling when live weather information is temporarily unavailable.
-
-3. SQLite Concurrency
-
-Multiple agents may access the database during the same application workflow.
-
-SQLite connection handling and database operations therefore required careful validation to avoid locking or connection-related issues.
-
-4. Multi-Agent Integration
-
-Integrating nine different operational agents into a single interface required consistent navigation, inputs, outputs and error handling.
-
-Key Learning
-
-The project provided practical experience in combining AI, RAG, machine learning, APIs, databases, authentication and UI development into one integrated application rather than developing each technology independently.
+each technology independently.
 
 🔮 Future Scope
 
